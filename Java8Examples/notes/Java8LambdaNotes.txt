@@ -1,0 +1,2 @@
+* Functional Interfaces - Interfaces with only one abstract method.
+* Lambda Expressions can be used with functional interfaces only.
